@@ -1,0 +1,1 @@
+serein.log('hello world');
