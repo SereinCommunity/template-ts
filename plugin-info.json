@@ -1,0 +1,18 @@
+{
+    "$schema": "https://sereincommunity.github.io/json-schemas/v2/plugin-info.json",
+    "name": "TS模板",
+    "id": "template",
+    "targetingSerein": [
+        "1.3.0",
+        "1.3.1",
+        "1.3.2",
+        "1.3.3",
+        "1.3.4",
+        "1.3.5",
+        "2.0"
+    ],
+    "isModule": false,
+    "tags": [
+        "development"
+    ]
+}
