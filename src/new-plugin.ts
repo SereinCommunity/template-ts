@@ -1,1 +1,0 @@
-serein.log('hello world');

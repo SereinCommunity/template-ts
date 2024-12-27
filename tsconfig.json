@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "esnext",
         "lib": [
-            "ES2023",
+            "ESNext",
         ],
         "skipLibCheck": true,
         "typeRoots": [
